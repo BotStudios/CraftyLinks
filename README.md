@@ -1,0 +1,2 @@
+# CraftyLinks
+Stop Random Redirects
